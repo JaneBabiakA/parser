@@ -85,6 +85,12 @@
 		<Unit filename="/home/janef/CLionProjects/parser/main.cpp">
 			<Option target="parser"/>
 		</Unit>
+		<Unit filename="/home/janef/CLionProjects/parser/parser.h">
+			<Option target="parser"/>
+		</Unit>
+		<Unit filename="/home/janef/CLionProjects/parser/tokenization.h">
+			<Option target="parser"/>
+		</Unit>
 		<Unit filename="/home/janef/CLionProjects/parser/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
